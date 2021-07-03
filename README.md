@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**chuck1in/chuck1in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
+很高兴见到你！
 
-Here are some ideas to get you started:
+- 🔭 我正在探索让大家变得更加幸福的方法。
+- 💡 爱好阅读和写作。
+- 🤝 项目合作、软件外包、远程雇佣等请通过邮件和我联系。
+- 👉 进一步了解我的作品。
+- ❤️ Love and peace.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![info](https://github-readme-stats.vercel.app/api?username=chuck1in&show_icons=true&count_private=true&hide=prs&theme=dracula)
+
+
+
+
+
