@@ -1,16 +1,19 @@
-### Hi~ Chuck is here! 👋
+### Hi there 👋
 
 --- 
-很高兴见到你！
+![exp](https://img.shields.io/badge/experience-10%20years%20%2B-important) ![stack](https://img.shields.io/badge/skill-java-red) ![stack](https://img.shields.io/badge/skill-javascript-yellow) ![stack](https://img.shields.io/badge/skill-python-blue)
 
-- 🔭 我正在探索让大家变得更加幸福的方法。
-- 💡 爱好阅读和写作。
-- 🤝 项目合作、软件外包、远程雇佣等请通过邮件和我联系。
-- 👉 进一步了解我的作品。
+很高兴见到你。
+
+  
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chuck1in&show_icons=true&count_private=true&hide=prs&theme=dracula" />
+
+- 🔭 我正在寻找让大家变得幸福的方法。
+- 💡 爱好是阅读和写作。
+- 👉 了解我的作品。
+- 🤝 项目合作或雇佣我，通过邮件和我联系。
 - ❤️ Love and peace.
 
-
-![info](https://github-readme-stats.vercel.app/api?username=chuck1in&show_icons=true&count_private=true&hide=prs&theme=dracula)
 
 
 
