@@ -13,6 +13,8 @@
 - 🤝 项目合作或雇佣我，请通过邮件和我联系。
 - ❤️ Love and peace.
 
+---
+
 ```javascript
 const world = [];
 const happiness = (world) => {
@@ -31,6 +33,8 @@ const love = peace(world);
 world.map((anybody) => love(anybody));
 
 ```
+
+
 
 
 
