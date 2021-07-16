@@ -2,7 +2,7 @@
 
 ---
 
-![exp](https://img.shields.io/badge/experience-10%20years%20%2B-important) ![stack](https://img.shields.io/badge/skill-java-red) ![stack](https://img.shields.io/badge/skill-typescript-blue)![stack](https://img.shields.io/badge/skill-javascript-yellow) ![stack](https://img.shields.io/badge/skill-python-blue)
+![exp](https://img.shields.io/badge/experience-10%20years%20%2B-important) ![stack](https://img.shields.io/badge/skill-java-red) ![stack](https://img.shields.io/badge/skill-typescript-blue) ![stack](https://img.shields.io/badge/skill-javascript-yellow) ![stack](https://img.shields.io/badge/skill-python-blue)
   
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chuck1in&show_icons=true&count_private=true&hide=prs&theme=dracula" />
 
